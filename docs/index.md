@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Les loots d'abords
   text: Un site pour les lootovores.
-  tagline: Uniquement pour ceux qui ont déja raid avec une canapèche.
+  tagline: Uniquement pour ceux qui ont déja raid avec une canne à pêche.
   image:
     src: /coffre.png
     alt: image d'un coffre

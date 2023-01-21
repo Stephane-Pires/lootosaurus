@@ -37,6 +37,32 @@ icon: {
     }
     ]
   },
+
+      {
+    avatar: './avatar-placeholder.png',
+    name: 'Arenwell',
+    title: 'Officier',
+    links: [ {
+icon: {
+    svg: WOW_SVG_STRING
+  },
+  link: 'https://classic.warcraftlogs.com/character/eu/sulfuron/arenwel',
+    }
+    ]
+  },
+
+        {
+    avatar: './avatar-placeholder.png',
+    name: 'Vachallait',
+    title: 'Officier',
+    links: [ {
+icon: {
+    svg: WOW_SVG_STRING
+  },
+  link: 'https://classic.warcraftlogs.com/character/EU/Sulfuron/Vash%C3%A2llait',
+    }
+    ]
+  },
 ]
 
 const Membres = [

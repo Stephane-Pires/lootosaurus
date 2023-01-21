@@ -1,27 +1,27 @@
 ## Tableau
 
-| Nom                                       | Nombre de loot | Précense | Ratio |
-|-------------------------------------------|:--------------:|:--------:|:-----:|
-| Sypsô                                     |        0       |    ❓    |   1   |
-| Aukâin                                    |        0       |    ❓    |   1   |
-| Nina                                      |        0       |    ❓    |   1   |
-| Lio                                       |        0       |    ❓    |   1   |
-| Vashâllait                                |        0       |    ❓    |   1   |
-| Gal                                       |        0       |    ❓    |   1   |
-| Volhanio                                  |        0       |    ❓    |   1   |
-| Chatounette                               |        0       |    ❓    |   1   |
-| Glaviotos                                 |        0       |    ❓    |   1   |
-| Chatchoum                                 |        0       |    ❓    |   1   |
-| Chimeraz                                  |        0       |    ❓    |   1   |
-| Massatomik                                |        0       |    ❓    |   1   |
-| Neronemesis                               |        0       |    ❓    |   1   |
-| Tiino                                     |        0       |    ❓    |   1   |
-| Satu                                      |        0       |    ❓    |   1   |
-| Azrokh                                    |        0       |    ❓    |   1   |
-| Trynn                                     |        0       |    ❓    |   1   |
-| Adawame                                   |        0       |    ❓    |   1   |
-| eelz                                      |        0       |    ❓    |   1   |
-| Petitpen                                  |        0       |    ❓    |   1   |
-| Erina                                     |        0       |    ❓    |   1   |
-| Skilette                                  |        0       |    ❓    |   1   | 
-| Orenwel                                   |        0       |    ❓    |   1   |
+| Nom                      |     Classes         | Nombre de loot | Précense | Ratio |
+|--------------------------|:-------------------:|:--------------:|:--------:|:-----:|
+| Sypsô                    |    Chasseur         |        0       |    ❓    |   1   |
+| Aukâin                   |     Chaman          |        0       |    ❓    |   1   |
+| Nina                     |     Voleur          |        0       |    ❓    |   1   |
+| Lio                      |      Mage           |        0       |    ❓    |   1   |
+| Vashâllait               |      Mage           |        0       |    ❓    |   1   |
+| Gal                      |Chevalier de la mort |        0       |    ❓    |   1   |
+| Volhanio                 |       Druide        |        0       |    ❓    |   1   |
+| Chatounette              |       Druide        |        0       |    ❓    |   1   |
+| Glaviotos                |    Chasseur         |        0       |    ❓    |   1   |
+| Chatchoum                |    Chasseur         |        0       |    ❓    |   1   |
+| Chimeraz                 |    Chasseur         |        0       |    ❓    |   1   |
+| Massatomik               |     Prêtre          |        0       |    ❓    |   1   |
+| Neronemesis              |Chevalier de la mort |        0       |    ❓    |   1   |
+| Tiino                    |Chevalier de la mort |        0       |    ❓    |   1   |
+| Satu                     |       Paladin       |        0       |    ❓    |   1   |
+| Azrokh                   |     Paladin         |        0       |    ❓    |   1   |
+| Trynn                    |     Paladin         |        0       |    ❓    |   1   |
+| Adawame                  |      Mage           |        0       |    ❓    |   1   |
+| Beelz                    |     Chaman          |        0       |    ❓    |   1   |
+| Petitpen                 |    Guerrier         |        0       |    ❓    |   1   |
+| Erina                    |      Voleur         |        0       |    ❓    |   1   |
+| Skilette                 |    Démoniste        |        0       |    ❓    |   1   |
+| Orenwel                  |    Démoniste        |        0       |    ❓    |   1   |
