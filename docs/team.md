@@ -27,7 +27,7 @@ const members = [
   },
 ]
 
-const catsistant = [
+const Membres = [
 
           {
     avatar: './avatar-placeholder.png',
@@ -65,7 +65,7 @@ const catsistant = [
     <template #title>Membres</template>
     <template #lead>Listes des personnes sans qui on ne raiderait pas</template>
     <template #members>
-      <VPTeamMembers :members="catsistant" />
+      <VPTeamMembers :members="Membres" />
     </template>
   </VPTeamPageSection>
 </VPTeamPage>
