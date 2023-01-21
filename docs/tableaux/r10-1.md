@@ -1,6 +1,6 @@
 ## Tableau
 
-| Nom                      |                                           Classes                                         | Nombre de loot | Précense | Ratio |
+| Nom                      |                                           Classes                                         | Nombre de loot | Présense | Ratio |
 |--------------------------|:-----------------------------------------------------------------------------------------:|:--------------:|:--------:|:-----:|
 | Sypsô                    |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >      |        0       |    ❓    |   1   |
 | Aukâin                   |    <img title="chaman" alt="Alt text" src="/classes/shaman.png" width=50 height=50 >      |        0       |    ❓    |   1   |
