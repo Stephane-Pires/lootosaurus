@@ -1,6 +1,6 @@
 ## Tableau
 
-| Nom                      |     Classes         | Nombre de loot | Précense | Ratio |
+| Nom                      |     Classes         | Nombre de loot | Présence | Ratio |
 |--------------------------|:-------------------:|:--------------:|:--------:|:-----:|
 | Sypsô                    |    Chasseur         |        0       |    ❓    |   1   |
 | Aukâin                   |     Chaman          |        0       |    ❓    |   1   |

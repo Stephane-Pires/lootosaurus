@@ -52,7 +52,7 @@ icon: {
   },
 
         {
-    avatar: './avatar-placeholder.png',
+    avatar: './avatar/vashallait.PNG',
     name: 'Vachallait',
     title: 'Officier',
     links: [ {
