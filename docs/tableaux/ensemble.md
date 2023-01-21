@@ -1,0 +1,60 @@
+## Raid 25
+
+### Tableau
+
+| Nom                                       | Nombre de loot | Nombre de présence | Ratio |
+|-------------------------------------------|:--------------:|:------------------:|:-----:|
+| Sypsô                                     |        0       |          ❓        |   1   |
+| Aukâin                                    |        0       |          ❓        |   1   |
+| Nina                                      |        0       |          ❓        |   1   |
+| Lio                                       |        0       |          ❓        |   1   |
+| Vashâllait                                |        0       |          ❓        |   1   |
+| Gal                                       |        0       |          ❓        |   1   |
+| Volhanio                                  |        0       |          ❓        |   1   |
+| Chatounette                               |        0       |          ❓        |   1   |
+| Glaviotos                                 |        0       |          ❓        |   1   |
+| Chatchoum                                 |        0       |          ❓        |   1   |
+| Chimeraz                                  |        0       |          ❓        |   1   |
+| Massatomik                                |        0       |          ❓        |   1   |
+| Neronemesis                               |        0       |          ❓        |   1   |
+| Tiino                                     |        0       |          ❓        |   1   |
+| Satu                                      |        0       |          ❓        |   1   |
+| Azrokh                                    |        0       |          ❓        |   1   |
+| Trynn                                     |        0       |          ❓        |   1   |
+| Adawame                                   |        0       |          ❓        |   1   |
+| eelz                                      |        0       |          ❓        |   1   |
+| Petitpen                                  |        0       |          ❓        |   1   |
+| Erina                                     |        0       |          ❓        |   1   |
+| Skilette                                  |        0       |          ❓        |   1   | 
+| Orenwel                                   |        0       |          ❓        |   1   |
+
+## Raid 10
+
+
+### Tableau
+
+| Nom                                       | Nombre de loot | Nombre de présence | Ratio |
+|-------------------------------------------|:--------------:|:------------------:|:-----:|
+| Sypsô                                     |        0       |          ❓        |   1   |
+| Aukâin                                    |        0       |          ❓        |   1   |
+| Nina                                      |        0       |          ❓        |   1   |
+| Lio                                       |        0       |          ❓        |   1   |
+| Vashâllait                                |        0       |          ❓        |   1   |
+| Gal                                       |        0       |          ❓        |   1   |
+| Volhanio                                  |        0       |          ❓        |   1   |
+| Chatounette                               |        0       |          ❓        |   1   |
+| Glaviotos                                 |        0       |          ❓        |   1   |
+| Chatchoum                                 |        0       |          ❓        |   1   |
+| Chimeraz                                  |        0       |          ❓        |   1   |
+| Massatomik                                |        0       |          ❓        |   1   |
+| Neronemesis                               |        0       |          ❓        |   1   |
+| Tiino                                     |        0       |          ❓        |   1   |
+| Satu                                      |        0       |          ❓        |   1   |
+| Azrokh                                    |        0       |          ❓        |   1   |
+| Trynn                                     |        0       |          ❓        |   1   |
+| Adawame                                   |        0       |          ❓        |   1   |
+| eelz                                      |        0       |          ❓        |   1   |
+| Petitpen                                  |        0       |          ❓        |   1   |
+| Erina                                     |        0       |          ❓        |   1   |
+| Skilette                                  |        0       |          ❓        |   1   | 
+| Orenwel                                   |        0       |          ❓        |   1   |
