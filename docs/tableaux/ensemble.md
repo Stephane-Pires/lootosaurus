@@ -2,59 +2,61 @@
 
 ### Tableau
 
-| Nom                                       | Nombre de loot | Nombre de présence | Ratio |
-|-------------------------------------------|:--------------:|:------------------:|:-----:|
-| Sypsô                                     |        0       |          ❓        |   1   |
-| Aukâin                                    |        0       |          ❓        |   1   |
-| Nina                                      |        0       |          ❓        |   1   |
-| Lio                                       |        0       |          ❓        |   1   |
-| Vashâllait                                |        0       |          ❓        |   1   |
-| Gal                                       |        0       |          ❓        |   1   |
-| Volhanio                                  |        0       |          ❓        |   1   |
-| Chatounette                               |        0       |          ❓        |   1   |
-| Glaviotos                                 |        0       |          ❓        |   1   |
-| Chatchoum                                 |        0       |          ❓        |   1   |
-| Chimeraz                                  |        0       |          ❓        |   1   |
-| Massatomik                                |        0       |          ❓        |   1   |
-| Neronemesis                               |        0       |          ❓        |   1   |
-| Tiino                                     |        0       |          ❓        |   1   |
-| Satu                                      |        0       |          ❓        |   1   |
-| Azrokh                                    |        0       |          ❓        |   1   |
-| Trynn                                     |        0       |          ❓        |   1   |
-| Adawame                                   |        0       |          ❓        |   1   |
-| eelz                                      |        0       |          ❓        |   1   |
-| Petitpen                                  |        0       |          ❓        |   1   |
-| Erina                                     |        0       |          ❓        |   1   |
-| Skilette                                  |        0       |          ❓        |   1   | 
-| Orenwel                                   |        0       |          ❓        |   1   |
+| Nom                      |                                           Classes                                         | Nombre de loot | Nombre de jour de présences | Ratio |
+|--------------------------|:-----------------------------------------------------------------------------------------:|:--------------:|:--------:|:-----:|
+| Aukâin                   |    <img title="chaman" alt="Alt text" src="/classes/shaman.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Beelz                    |    <img title="chaman" alt="Alt text" src="/classes/shaman.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Erina                    |    <img title="voleur" alt="Alt text" src="/classes/rogue.png" width=50 height=50 >       |        0       |    ❓    |   1   |
+| Nina                     |    <img title="voleur" alt="Alt text" src="/classes/rogue.png" width=50 height=50 >       |        0       |    ❓    |   1   |
+| Adawame                  |    <img title="mage" alt="Alt text" src="/classes/mage.png" width=50 height=50 >          |        0       |    ❓    |   1   |
+| Lio                      |    <img title="mage" alt="Alt text" src="/classes/mage.png" width=50 height=50 >          |        0       |    ❓    |   1   |
+| Chatounette              |    <img title="druide" alt="Alt text" src="/classes/druide.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Volhanio                 |    <img title="druide" alt="Alt text" src="/classes/druide.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Chatchoum                |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Chimeraz                 |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Glaviotos                |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Sypsô                    |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Massatomik               |    <img title="Prêtre" alt="Alt text" src="/classes/priest.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Gal                      |    <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >              |        0       |    ❓    |   1   |
+| Neronemesis              |    <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >              |        0       |    ❓    |   1   |
+| Tiino                    |    <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >              |        0       |    ❓    |   1   |
+| Azrokh                   |    <img title="Paladin" alt="Alt text" src="/classes/paladin.png" width=50 height=50 >    |        0       |    ❓    |   1   |
+| Satu                     |    <img title="Paladin" alt="Alt text" src="/classes/paladin.png" width=50 height=50 >    |        0       |    ❓    |   1   |
+| Trynn                    |    <img title="Paladin" alt="Alt text" src="/classes/paladin.png" width=50 height=50 >    |        0       |    ❓    |   1   |
+| Vashâllait               |    <img title="Paladin" alt="Alt text" src="/classes/paladin.png" width=50 height=50 >    |        0       |    ❓    |   1   |
+| Petitpen                 |    <img title="war" alt="Alt text" src="/classes/war.png" width=50 height=50 >            |        0       |    ❓    |   1   |
+| Orenwel                  |    <img title="demoniste" alt="Alt text" src="/classes/demoniste.png" width=50 height=50 >|        0       |    ❓    |   1   |
+| Skilette                 |    <img title="demoniste" alt="Alt text" src="/classes/demoniste.png" width=50 height=50 >|        0       |    ❓    |   1   |
 
 ## Raid 10
 
 
 ### Tableau
 
-| Nom                                       | Nombre de loot | Nombre de présence | Ratio |
-|-------------------------------------------|:--------------:|:------------------:|:-----:|
-| Sypsô                                     |        0       |          ❓        |   1   |
-| Aukâin                                    |        0       |          ❓        |   1   |
-| Nina                                      |        0       |          ❓        |   1   |
-| Lio                                       |        0       |          ❓        |   1   |
-| Vashâllait                                |        0       |          ❓        |   1   |
-| Gal                                       |        0       |          ❓        |   1   |
-| Volhanio                                  |        0       |          ❓        |   1   |
-| Chatounette                               |        0       |          ❓        |   1   |
-| Glaviotos                                 |        0       |          ❓        |   1   |
-| Chatchoum                                 |        0       |          ❓        |   1   |
-| Chimeraz                                  |        0       |          ❓        |   1   |
-| Massatomik                                |        0       |          ❓        |   1   |
-| Neronemesis                               |        0       |          ❓        |   1   |
-| Tiino                                     |        0       |          ❓        |   1   |
-| Satu                                      |        0       |          ❓        |   1   |
-| Azrokh                                    |        0       |          ❓        |   1   |
-| Trynn                                     |        0       |          ❓        |   1   |
-| Adawame                                   |        0       |          ❓        |   1   |
-| eelz                                      |        0       |          ❓        |   1   |
-| Petitpen                                  |        0       |          ❓        |   1   |
-| Erina                                     |        0       |          ❓        |   1   |
-| Skilette                                  |        0       |          ❓        |   1   | 
-| Orenwel                                   |        0       |          ❓        |   1   |
+## Tableau
+
+| Nom                      |                                           Classes                                         | Nombre de loot | Nombre de jour de présences | Ratio |
+|--------------------------|:-----------------------------------------------------------------------------------------:|:--------------:|:--------:|:-----:|
+| Aukâin                   |    <img title="chaman" alt="Alt text" src="/classes/shaman.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Beelz                    |    <img title="chaman" alt="Alt text" src="/classes/shaman.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Erina                    |    <img title="voleur" alt="Alt text" src="/classes/rogue.png" width=50 height=50 >       |        0       |    ❓    |   1   |
+| Nina                     |    <img title="voleur" alt="Alt text" src="/classes/rogue.png" width=50 height=50 >       |        0       |    ❓    |   1   |
+| Adawame                  |    <img title="mage" alt="Alt text" src="/classes/mage.png" width=50 height=50 >          |        0       |    ❓    |   1   |
+| Lio                      |    <img title="mage" alt="Alt text" src="/classes/mage.png" width=50 height=50 >          |        0       |    ❓    |   1   |
+| Chatounette              |    <img title="druide" alt="Alt text" src="/classes/druide.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Volhanio                 |    <img title="druide" alt="Alt text" src="/classes/druide.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Chatchoum                |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Chimeraz                 |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Glaviotos                |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Sypsô                    |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Massatomik               |    <img title="Prêtre" alt="Alt text" src="/classes/priest.png" width=50 height=50 >      |        0       |    ❓    |   1   |
+| Gal                      |    <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >              |        0       |    ❓    |   1   |
+| Neronemesis              |    <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >              |        0       |    ❓    |   1   |
+| Tiino                    |    <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >              |        0       |    ❓    |   1   |
+| Azrokh                   |    <img title="Paladin" alt="Alt text" src="/classes/paladin.png" width=50 height=50 >    |        0       |    ❓    |   1   |
+| Satu                     |    <img title="Paladin" alt="Alt text" src="/classes/paladin.png" width=50 height=50 >    |        0       |    ❓    |   1   |
+| Trynn                    |    <img title="Paladin" alt="Alt text" src="/classes/paladin.png" width=50 height=50 >    |        0       |    ❓    |   1   |
+| Vashâllait               |    <img title="Paladin" alt="Alt text" src="/classes/paladin.png" width=50 height=50 >    |        0       |    ❓    |   1   |
+| Petitpen                 |    <img title="war" alt="Alt text" src="/classes/war.png" width=50 height=50 >            |        0       |    ❓    |   1   |
+| Orenwel                  |    <img title="demoniste" alt="Alt text" src="/classes/demoniste.png" width=50 height=50 >|        0       |    ❓    |   1   |
+| Skilette                 |    <img title="demoniste" alt="Alt text" src="/classes/demoniste.png" width=50 height=50 >|        0       |    ❓    |   1   |
