@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Comprendre les règles
-      link: /regles/regles
+      link: /regles/loot
     # - theme: alt
     #   text: View on GitHub
     #   link: https://github.com/vuejs/vitepress

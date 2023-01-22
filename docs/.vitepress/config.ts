@@ -5,7 +5,7 @@ const NAVIGATION_LOGIC = [
   {
     text: '📐 Règles',
     items: [
-        {text: 'Règles', link: '/regles/regles'}]
+        {text: 'Loot', link: '/regles/loot'}]
   },
   {
     text: '📈 Tableaux',

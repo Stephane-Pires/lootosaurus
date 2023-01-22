@@ -81,7 +81,7 @@ icon: {
   },
 
       {
-    avatar: './avatar-placeholder.png',
+    avatar: './avatar/aukain.png',
     name: 'Aukain',
     title: 'Membre',
     links: [ {
