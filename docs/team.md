@@ -26,7 +26,7 @@ icon: {
   },
 
     {
-    avatar: './avatar-placeholder.png',
+    avatar: './avatar/lio.JPG',
     name: 'Lio',
     title: 'Guild master',
     links: [ {
