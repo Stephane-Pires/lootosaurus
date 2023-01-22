@@ -94,6 +94,19 @@ icon: {
     ]
   },
 
+        {
+    avatar: './avatar/cochon.png',
+    name: 'cochonhalouf',
+    title: 'Membre',
+    links: [ {
+icon: {
+    svg: WOW_SVG_STRING
+  },
+  link: 'https://classic.warcraftlogs.com/character/eu/sulfuron/cochonhalouf',
+    }
+    ]
+  },
+
 
 ]
 </script>
