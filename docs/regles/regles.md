@@ -2,7 +2,6 @@
 
 _On va se mettre d'équerre._
 
-
 ## Principe
 
 - Favoriser les joueurs régulier. 
@@ -43,5 +42,5 @@ _On va se mettre d'équerre._
 
  - Le "loot master" décide qu'une pièce est BIS pour une classe. Il se base sur, la confiance qu'il a dans l'honnêteté d'un joueur, divers sites ([wowhead](https://www.wowhead.com/wotlk), [icy veins](https://www.icy-veins.com/wotlk-classic/), etc..)
  - Le "loot master" décide de faire passer en priorité une personne qui à un ratio loot/précense plus bas. Même sur une pièce qui n'est pas BIS.
- 
+
  
