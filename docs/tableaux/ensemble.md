@@ -4,11 +4,11 @@ const MEMBERS = {
     AUKAIN: {
         10:{
             raid: 1,
-        loot: 0,
+        loot: 1,
         },
         25:{
-            raid: 1,
-        loot: 1,
+            raid: 2,
+        loot: 3,
         },
         
     },
@@ -18,8 +18,8 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
-        loot: 0,
+            raid: 2,
+        loot: 2,
         },
         
     },
@@ -29,8 +29,8 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
-        loot: 0,
+            raid: 2,
+        loot: 2,
         },
         
     },
@@ -40,7 +40,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
+            raid: 2,
         loot: 1,
         },
         
@@ -48,10 +48,10 @@ const MEMBERS = {
     ADAWAME: {
         10:{
             raid: 1,
-        loot: 0,
+        loot: 4,
         },
         25:{
-            raid: 1,
+            raid: 2,
         loot: 1,
         },
         
@@ -62,7 +62,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
+            raid: 2,
         loot: 1,
         },
         
@@ -73,7 +73,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
+            raid: 2,
         loot: 0,
         },
         
@@ -84,8 +84,8 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
-        loot: 0,
+        raid: 2,
+        loot: 2,
         },
         
     },
@@ -106,7 +106,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
+            raid: 2,
         loot: 1,
         },
         
@@ -117,7 +117,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
+            raid: 0,
         loot: 0,
         },
         
@@ -125,11 +125,11 @@ const MEMBERS = {
     SYPSO: {
         10:{
             raid: 1,
-        loot: 0,
+        loot: 2,
         },
         25:{
-            raid: 1,
-        loot: 0,
+            raid: 2,
+        loot: 1,
         },
         
     },
@@ -139,7 +139,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
+            raid: 2,
         loot: 0,
         },
         
@@ -147,11 +147,11 @@ const MEMBERS = {
     GAL: {
         10:{
             raid: 1,
-        loot: 0,
+        loot: 3,
         },
         25:{
-            raid: 1,
-        loot: 1,
+            raid: 2,
+        loot: 3,
         },
         
     },
@@ -161,7 +161,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
+            raid: 2,
         loot: 0,
         },
         
@@ -183,27 +183,27 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
+            raid: 2,
         loot: 1,
         },
     },
         COCHONRAHLOUF: {
         10:{
             raid: 1,
-        loot: 0,
+        loot: 1,
         },
         25:{
-            raid: 1,
+            raid: 2,
         loot: 1,
         },
     },
     SATU: {
         10:{
             raid: 1,
-        loot: 0,
+        loot: 1,
         },
         25:{
-            raid: 1,
+        raid: 2,
         loot: 2,
         },
         
@@ -214,7 +214,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
+        raid: 2,
         loot: 1,
         },
         
@@ -225,7 +225,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
+            raid: 2,
         loot: 1,
         },
         
@@ -249,7 +249,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
+        raid: 2,
         loot: 1,
         },
         
@@ -260,8 +260,8 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
-        loot: 1,
+        raid: 2,
+        loot: 3,
         },
         
     },
