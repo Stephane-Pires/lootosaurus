@@ -14,7 +14,7 @@ const MEMBERS = {
     },
     BEELZ: {
         10:{
-            raid: 1,
+            raid: 0,
         loot: 0,
         },
         25:{
@@ -25,7 +25,7 @@ const MEMBERS = {
     },
     ERINA: {
         10:{
-            raid: 1,
+            raid: 0,
         loot: 0,
         },
         25:{
@@ -36,7 +36,7 @@ const MEMBERS = {
     },
     NINA: {
         10:{
-            raid: 1,
+            raid: 0,
         loot: 0,
         },
         25:{
@@ -58,7 +58,7 @@ const MEMBERS = {
     },
     LIO: {
         10:{
-            raid: 1,
+            raid: 0,
         loot: 0,
         },
         25:{
@@ -69,7 +69,7 @@ const MEMBERS = {
     },
     CHATOUNETTE: {
         10:{
-            raid: 1,
+            raid: 0,
         loot: 0,
         },
         25:{
@@ -80,7 +80,7 @@ const MEMBERS = {
     },
     VOLHANIO: {
         10:{
-            raid: 1,
+            raid: 0,
         loot: 0,
         },
         25:{
@@ -91,7 +91,7 @@ const MEMBERS = {
     },
     CHATCHOUM: {
         10:{
-            raid: 1,
+            raid: 0,
         loot: 0,
         },
         25:{
@@ -102,7 +102,7 @@ const MEMBERS = {
     },
     CHIMERAZ: {
         10:{
-            raid: 1,
+            raid: 0,
         loot: 0,
         },
         25:{
@@ -113,7 +113,7 @@ const MEMBERS = {
     },
     GLAVIOTOS: {
         10:{
-            raid: 1,
+            raid: 0,
         loot: 0,
         },
         25:{
@@ -168,7 +168,7 @@ const MEMBERS = {
     },
     TIINO: {
         10:{
-            raid: 1,
+            raid: 0,
         loot: 0,
         },
         25:{
@@ -233,7 +233,7 @@ const MEMBERS = {
 
         PETITPEN: {
         10:{
-            raid: 1,
+            raid: 0,
         loot: 0,
         },
         25:{
@@ -245,7 +245,7 @@ const MEMBERS = {
 
             ORENWEL: {
         10:{
-            raid: 1,
+            raid: 0,
         loot: 0,
         },
         25:{
@@ -256,7 +256,7 @@ const MEMBERS = {
     },
             SKILETTE: {
         10:{
-            raid: 1,
+            raid: 0,
         loot: 0,
         },
         25:{
@@ -268,7 +268,11 @@ const MEMBERS = {
     
 }
 
-const calculRatio = (nbLoot, nbRaid) => Number(nbLoot / nbRaid).toFixed(2)
+const calculRatio = (nbLoot, nbRaid) => {
+
+    const RATIO = Number(nbLoot / nbRaid).toFixed(1) 
+    return isNaN(RATIO) ? 0 : RATIO
+    }
 </script>
 
 ## Raid 25
