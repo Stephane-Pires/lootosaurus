@@ -31,11 +31,11 @@ const NAVIGATION_LOGIC = [
                     },
                     {
                         text: 'Raid Ulduar 25 : 26/01/23 ',
-                        link: '/tableaux/r25-2',
+                        link: '/tableaux/r25-3',
                     },
                     {
                         text: 'Raid Ulduar 25 : 31/01/23 ',
-                        link: '/tableaux/r25-2',
+                        link: '/tableaux/r25-4',
                     },
                 ],
             },
