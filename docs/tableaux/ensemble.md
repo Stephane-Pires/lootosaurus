@@ -7,8 +7,8 @@ const MEMBERS = {
         loot: 1,
         },
         25:{
-            raid: 2,
-        loot: 3,
+            raid: 3,
+        loot: 4,
         },
         
     },
@@ -29,8 +29,8 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 2,
-        loot: 2,
+            raid: 3,
+        loot: 3,
         },
         
     },
@@ -40,8 +40,8 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 2,
-        loot: 1,
+            raid: 3,
+        loot: 2,
         },
         
     },
@@ -51,8 +51,8 @@ const MEMBERS = {
         loot: 4,
         },
         25:{
-            raid: 2,
-        loot: 1,
+            raid: 3,
+        loot: 2,
         },
         
     },
@@ -62,8 +62,8 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 2,
-        loot: 1,
+            raid: 3,
+        loot: 2,
         },
         
     },
@@ -73,7 +73,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 2,
+            raid: 3,
         loot: 0,
         },
         
@@ -84,8 +84,8 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-        raid: 2,
-        loot: 2,
+        raid: 3,
+        loot: 4,
         },
         
     },
@@ -95,8 +95,8 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
-        loot: 2,
+            raid: 2,
+        loot: 3,
         },
         
     },
@@ -122,27 +122,48 @@ const MEMBERS = {
         },
         
     },
+    
     SYPSO: {
         10:{
             raid: 1,
         loot: 2,
         },
         25:{
-            raid: 2,
-        loot: 1,
+            raid: 3,
+        loot: 2,
         },
         
     },
+
     MASSATOMIK: {
         10:{
             raid: 1,
         loot: 0,
         },
         25:{
-            raid: 2,
+            raid: 3,
+        loot: 1,
+        },
+    },
+    NEOZX: {
+        10:{
+        raid: 0,
         loot: 0,
         },
-        
+        25:{
+        raid: 2,
+        loot: 1,
+        }, 
+    },
+    AEVINEE: {
+        10:{
+        raid: 0,
+        loot: 0,
+        },
+        25:{
+        raid: 2,
+        loot: 1,
+        }, 
     },
     GAL: {
         10:{
@@ -150,8 +171,8 @@ const MEMBERS = {
         loot: 3,
         },
         25:{
-            raid: 2,
-        loot: 3,
+            raid: 3,
+        loot: 4,
         },
         
     },
@@ -161,8 +182,8 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 2,
-        loot: 0,
+            raid: 3,
+        loot: 1,
         },
         
     },
@@ -172,8 +193,8 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 1,
-        loot: 2,
+            raid: 2,
+        loot: 3,
         },
         
     },
@@ -183,8 +204,8 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 2,
-        loot: 1,
+            raid: 3,
+        loot: 2,
         },
     },
         COCHONRAHLOUF: {
@@ -203,7 +224,7 @@ const MEMBERS = {
         loot: 1,
         },
         25:{
-        raid: 2,
+        raid: 3,
         loot: 2,
         },
         
@@ -214,7 +235,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-        raid: 2,
+        raid: 3,
         loot: 1,
         },
         
@@ -225,8 +246,8 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 2,
-        loot: 1,
+            raid: 3,
+        loot: 3,
         },
         
     },
@@ -260,7 +281,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-        raid: 2,
+        raid: 3,
         loot: 3,
         },
         
@@ -293,7 +314,9 @@ const calculRatio = (nbLoot, nbRaid) => {
 | Chimeraz    |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |   {{ MEMBERS.CHIMERAZ[25].loot }}    |   {{ MEMBERS.CHIMERAZ[25].raid }}    |      {{ calculRatio(MEMBERS.CHIMERAZ[25].loot, MEMBERS.CHIMERAZ[25].raid) }}      |
 | Glaviotos   |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |   {{ MEMBERS.GLAVIOTOS[25].loot }}   |   {{ MEMBERS.GLAVIOTOS[25].raid }}   |     {{ calculRatio(MEMBERS.GLAVIOTOS[25].loot, MEMBERS.GLAVIOTOS[25].raid) }}     |
 | Sypsô       |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |     {{ MEMBERS.SYPSO[25].loot }}     |     {{ MEMBERS.SYPSO[25].raid }}     |         {{ calculRatio(MEMBERS.SYPSO[25].loot, MEMBERS.SYPSO[25].raid) }}         |
+| Neozx       |    <img title="Prêtre" alt="Alt text" src="/classes/priest.png" width=50 height=50 >    |     {{ MEMBERS.NEOZX[25].loot }}     |     {{ MEMBERS.NEOZX[25].raid }}     |         {{ calculRatio(MEMBERS.NEOZX[25].loot, MEMBERS.NEOZX[25].raid) }}         |
 | Massatomik  |    <img title="Prêtre" alt="Alt text" src="/classes/priest.png" width=50 height=50 >    |  {{ MEMBERS.MASSATOMIK[25].loot }}   |  {{ MEMBERS.MASSATOMIK[25].raid }}   |    {{ calculRatio(MEMBERS.MASSATOMIK[25].loot, MEMBERS.MASSATOMIK[25].raid) }}    |
+| Aevinee     |       <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >         |      {{ MEMBERS.GAL[25].loot }}      |    {{ MEMBERS.AEVINEE[25].raid }}    |       {{ calculRatio(MEMBERS.AEVINEE[25].loot, MEMBERS.AEVINEE[25].raid) }}       |
 | Gal         |       <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >         |      {{ MEMBERS.GAL[25].loot }}      |      {{ MEMBERS.GAL[25].raid }}      |           {{ calculRatio(MEMBERS.GAL[25].loot, MEMBERS.GAL[25].raid) }}           |
 | Neronemesis |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        |  {{ MEMBERS.NERONEMESIS[25].loot }}  |  {{ MEMBERS.NERONEMESIS[25].raid }}  |   {{ calculRatio(MEMBERS.NERONEMESIS[25].loot, MEMBERS.NERONEMESIS[25].raid) }}   |
 | Tiino       |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        |     {{ MEMBERS.TIINO[25].loot }}     |     {{ MEMBERS.TIINO[25].raid }}     |         {{ calculRatio(MEMBERS.TIINO[25].loot, MEMBERS.TIINO[25].raid) }}         |
@@ -325,6 +348,9 @@ const calculRatio = (nbLoot, nbRaid) => {
 | Glaviotos     |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |   {{ MEMBERS.GLAVIOTOS[10].loot }}   |   {{ MEMBERS.GLAVIOTOS[10].raid }}   |     {{ calculRatio(MEMBERS.GLAVIOTOS[10].loot, MEMBERS.GLAVIOTOS[10].raid) }}     |
 | Sypsô         |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |     {{ MEMBERS.SYPSO[10].loot }}     |     {{ MEMBERS.SYPSO[10].raid }}     |         {{ calculRatio(MEMBERS.SYPSO[10].loot, MEMBERS.SYPSO[10].raid) }}         |
 | Massatomik    |    <img title="Prêtre" alt="Alt text" src="/classes/priest.png" width=50 height=50 >    |  {{ MEMBERS.MASSATOMIK[10].loot }}   |  {{ MEMBERS.MASSATOMIK[10].raid }}   |    {{ calculRatio(MEMBERS.MASSATOMIK[10].loot, MEMBERS.MASSATOMIK[10].raid) }}    |
+| Gal           |       <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >         |      {{ MEMBERS.GAL[10].loot }}      |      {{ MEMBERS.GAL[10].raid }}      |           {{ calculRatio(MEMBERS.GAL[10].loot, MEMBERS.GAL[10].raid) }}           |
+| Neozx         |    <img title="Prêtre" alt="Alt text" src="/classes/priest.png" width=50 height=50 >    |  {{ MEMBERS.MASSATOMIK[10].loot }}   |     {{ MEMBERS.NEOZX[10].raid }}     |         {{ calculRatio(MEMBERS.NEOZX[10].loot, MEMBERS.NEOZX[10].raid) }}         |
+| Aevinee       |       <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >         |      {{ MEMBERS.GAL[10].loot }}      |    {{ MEMBERS.AEVINEE[10].raid }}    |       {{ calculRatio(MEMBERS.AEVINEE[10].loot, MEMBERS.AEVINEE[10].raid) }}       |
 | Gal           |       <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >         |      {{ MEMBERS.GAL[10].loot }}      |      {{ MEMBERS.GAL[10].raid }}      |           {{ calculRatio(MEMBERS.GAL[10].loot, MEMBERS.GAL[10].raid) }}           |
 | Neronemesis   |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        |  {{ MEMBERS.NERONEMESIS[10].loot }}  |  {{ MEMBERS.NERONEMESIS[10].raid }}  |   {{ calculRatio(MEMBERS.NERONEMESIS[10].loot, MEMBERS.NERONEMESIS[10].raid) }}   |
 | Tiino         |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        |     {{ MEMBERS.TIINO[10].loot }}     |     {{ MEMBERS.TIINO[10].raid }}     |         {{ calculRatio(MEMBERS.TIINO[10].loot, MEMBERS.TIINO[10].raid) }}         |

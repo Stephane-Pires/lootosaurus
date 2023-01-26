@@ -15,6 +15,8 @@
 | Glaviotos     |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |       0        |
 | Sypsô         |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |       0        |
 | Massatomik    |    <img title="Prêtre" alt="Alt text" src="/classes/priest.png" width=50 height=50 >    |       0        |
+| Neozx         |    <img title="Prêtre" alt="Alt text" src="/classes/priest.png" width=50 height=50 >    |       0        |
+| Aevinee       |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        |       0        |
 | Gal           |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        |       0        |
 | Neronemesis   |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        |       0        |
 | Tiino         |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        |       0        |
@@ -44,6 +46,8 @@
 | Glaviotos     |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |   {{ MEMBERS.GLAVIOTOS[25].loot }}   |   {{ MEMBERS.GLAVIOTOS[25].raid }}   |     {{ calculRatio(MEMBERS.GLAVIOTOS[25].loot, MEMBERS.GLAVIOTOS[25].raid) }}     |
 | Sypsô         |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |     {{ MEMBERS.SYPSO[25].loot }}     |     {{ MEMBERS.SYPSO[25].raid }}     |         {{ calculRatio(MEMBERS.SYPSO[25].loot, MEMBERS.SYPSO[25].raid) }}         |
 | Massatomik    |    <img title="Prêtre" alt="Alt text" src="/classes/priest.png" width=50 height=50 >    |  {{ MEMBERS.MASSATOMIK[25].loot }}   |  {{ MEMBERS.MASSATOMIK[25].raid }}   |    {{ calculRatio(MEMBERS.MASSATOMIK[25].loot, MEMBERS.MASSATOMIK[25].raid) }}    |
+| Neozx         |    <img title="Prêtre" alt="Alt text" src="/classes/priest.png" width=50 height=50 >    |     {{ MEMBERS.NEOZX[25].loot }}     |     {{ MEMBERS.NEOZX[25].raid }}     |         {{ calculRatio(MEMBERS.NEOZX[25].loot, MEMBERS.NEOZX[25].raid) }}         |
+| Aevinee       |       <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >         |    {{ MEMBERS.AEVINEE[25].loot }}    |    {{ MEMBERS.AEVINEE[25].raid }}    |       {{ calculRatio(MEMBERS.AEVINEE[25].loot, MEMBERS.AEVINEE[25].raid) }}       |
 | Gal           |       <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >         |      {{ MEMBERS.GAL[25].loot }}      |      {{ MEMBERS.GAL[25].raid }}      |           {{ calculRatio(MEMBERS.GAL[25].loot, MEMBERS.GAL[25].raid) }}           |
 | Neronemesis   |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        |  {{ MEMBERS.NERONEMESIS[25].loot }}  |  {{ MEMBERS.NERONEMESIS[25].raid }}  |   {{ calculRatio(MEMBERS.NERONEMESIS[25].loot, MEMBERS.NERONEMESIS[25].raid) }}   |
 | Tiino         |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        |     {{ MEMBERS.TIINO[25].loot }}     |     {{ MEMBERS.TIINO[25].raid }}     |         {{ calculRatio(MEMBERS.TIINO[25].loot, MEMBERS.TIINO[25].raid) }}         |
