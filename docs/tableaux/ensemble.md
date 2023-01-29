@@ -48,7 +48,7 @@ const MEMBERS = {
     LIO: {
         10:{
             raid: 1,
-        loot: 5,
+        loot: 4,
         },
         25:{
             raid: 3,
