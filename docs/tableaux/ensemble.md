@@ -7,18 +7,42 @@ const MEMBERS = {
         loot: 2,
         },
         25:{
-            raid: 3,
+            raid: 4,
         loot: 4,
         },
         
     },
+        ARCHMAELLE: {
+        10:{
+            raid: 0,
+        loot: 0,
+        },
+        25:{
+            raid: 1,
+        loot: 0,
+        },
+        
+    },
+
+        BLADESIN: {
+        10:{
+            raid: 0,
+        loot: 0,
+        },
+        25:{
+            raid: 2,
+        loot: 1,
+        },
+        
+    },
+    
     ERINA: {
         10:{
             raid: 1,
         loot: 2,
         },
         25:{
-            raid: 3,
+            raid: 4,
         loot: 3,
         },
         
@@ -29,7 +53,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 3,
+            raid: 4,
         loot: 2,
         },
         
@@ -40,7 +64,7 @@ const MEMBERS = {
         loot: 4,
         },
         25:{
-            raid: 3,
+            raid: 4,
         loot: 2,
         },
         
@@ -51,8 +75,8 @@ const MEMBERS = {
         loot: 4,
         },
         25:{
-            raid: 3,
-        loot: 2,
+            raid: 4,
+        loot: 3,
         },
         
     },
@@ -62,8 +86,8 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 3,
-        loot: 0,
+            raid: 4,
+        loot: 1,
         },
         
     },
@@ -84,19 +108,8 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-            raid: 2,
+            raid: 3,
         loot: 3,
-        },
-        
-    },
-    CHIMERAZ: {
-        10:{
-            raid: 0,
-        loot: 0,
-        },
-        25:{
-            raid: 2,
-        loot: 1,
         },
         
     },
@@ -107,7 +120,7 @@ const MEMBERS = {
         loot: 3,
         },
         25:{
-            raid: 3,
+            raid: 4,
         loot: 2,
         },
         
@@ -119,7 +132,7 @@ const MEMBERS = {
         loot: 4,
         },
         25:{
-            raid: 3,
+            raid: 4,
         loot: 1,
         },
     },
@@ -129,7 +142,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-        raid: 2,
+        raid: 3,
         loot: 1,
         }, 
     },
@@ -139,7 +152,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-        raid: 2,
+        raid: 3,
         loot: 1,
         }, 
     },
@@ -149,7 +162,7 @@ const MEMBERS = {
         loot: 3,
         },
         25:{
-            raid: 3,
+            raid: 4,
         loot: 4,
         },
         
@@ -182,7 +195,7 @@ const MEMBERS = {
         loot: 1,
         },
         25:{
-            raid: 3,
+            raid: 4,
         loot: 2,
         },
     },
@@ -192,7 +205,7 @@ const MEMBERS = {
         loot: 2,
         },
         25:{
-        raid: 3,
+        raid: 4,
         loot: 2,
         },
         
@@ -203,7 +216,7 @@ const MEMBERS = {
         loot: 3,
         },
         25:{
-        raid: 3,
+        raid: 4,
         loot: 1,
         },
         
@@ -214,7 +227,7 @@ const MEMBERS = {
         loot: 2,
         },
         25:{
-            raid: 3,
+            raid: 4,
         loot: 3,
         },
         
@@ -226,7 +239,7 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-        raid: 2,
+        raid: 3,
         loot: 1,
         },
         
@@ -237,8 +250,8 @@ const MEMBERS = {
         loot: 0,
         },
         25:{
-        raid: 3,
-        loot: 3,
+        raid: 4,
+        loot: 4,
         },
         
     },
@@ -266,7 +279,6 @@ const calculRatio = (nbLoot, nbRaid) => {
 | Chatounette |    <img title="druide" alt="Alt text" src="/classes/druide.png" width=50 height=50 >    | {{ MEMBERS.CHATOUNETTE[25].loot }} | {{ MEMBERS.CHATOUNETTE[25].raid }} | {{ calculRatio(MEMBERS.CHATOUNETTE[25].loot, MEMBERS.CHATOUNETTE[25].raid) }} |
 | Volhanio    |    <img title="druide" alt="Alt text" src="/classes/druide.png" width=50 height=50 >    |  {{ MEMBERS.VOLHANIO[25].loot }}   |  {{ MEMBERS.VOLHANIO[25].raid }}   |    {{ calculRatio(MEMBERS.VOLHANIO[25].loot, MEMBERS.VOLHANIO[25].raid) }}    |
 | Chatchoum   |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |  {{ MEMBERS.CHATCHOUM[25].loot }}  |  {{ MEMBERS.CHATCHOUM[25].raid }}  |   {{ calculRatio(MEMBERS.CHATCHOUM[25].loot, MEMBERS.CHATCHOUM[25].raid) }}   |
-| Chimeraz    |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |  {{ MEMBERS.CHIMERAZ[25].loot }}   |  {{ MEMBERS.CHIMERAZ[25].raid }}   |    {{ calculRatio(MEMBERS.CHIMERAZ[25].loot, MEMBERS.CHIMERAZ[25].raid) }}    |
 | Sypsô       |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |    {{ MEMBERS.SYPSO[25].loot }}    |    {{ MEMBERS.SYPSO[25].raid }}    |       {{ calculRatio(MEMBERS.SYPSO[25].loot, MEMBERS.SYPSO[25].raid) }}       |
 | Neozx       |    <img title="Prêtre" alt="Alt text" src="/classes/priest.png" width=50 height=50 >    |    {{ MEMBERS.NEOZX[25].loot }}    |    {{ MEMBERS.NEOZX[25].raid }}    |       {{ calculRatio(MEMBERS.NEOZX[25].loot, MEMBERS.NEOZX[25].raid) }}       |
 | Massatomik  |    <img title="Prêtre" alt="Alt text" src="/classes/priest.png" width=50 height=50 >    | {{ MEMBERS.MASSATOMIK[25].loot }}  | {{ MEMBERS.MASSATOMIK[25].raid }}  |  {{ calculRatio(MEMBERS.MASSATOMIK[25].loot, MEMBERS.MASSATOMIK[25].raid) }}  |
@@ -295,7 +307,6 @@ const calculRatio = (nbLoot, nbRaid) => {
 | Chatounette |    <img title="druide" alt="Alt text" src="/classes/druide.png" width=50 height=50 >    | {{ MEMBERS.CHATOUNETTE[10].loot }} | {{ MEMBERS.CHATOUNETTE[10].raid }} | {{ calculRatio(MEMBERS.CHATOUNETTE[10].loot, MEMBERS.CHATOUNETTE[10].raid) }} |
 | Volhanio    |    <img title="druide" alt="Alt text" src="/classes/druide.png" width=50 height=50 >    |  {{ MEMBERS.VOLHANIO[10].loot }}   |  {{ MEMBERS.VOLHANIO[10].raid }}   |    {{ calculRatio(MEMBERS.VOLHANIO[10].loot, MEMBERS.VOLHANIO[10].raid) }}    |
 | Chatchoum   |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |  {{ MEMBERS.CHATCHOUM[10].loot }}  |  {{ MEMBERS.CHATCHOUM[10].raid }}  |   {{ calculRatio(MEMBERS.CHATCHOUM[10].loot, MEMBERS.CHATCHOUM[10].raid) }}   |
-| Chimeraz    |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |  {{ MEMBERS.CHIMERAZ[10].loot }}   |  {{ MEMBERS.CHIMERAZ[10].raid }}   |    {{ calculRatio(MEMBERS.CHIMERAZ[10].loot, MEMBERS.CHIMERAZ[10].raid) }}    |
 | Sypsô       |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |    {{ MEMBERS.SYPSO[10].loot }}    |    {{ MEMBERS.SYPSO[10].raid }}    |       {{ calculRatio(MEMBERS.SYPSO[10].loot, MEMBERS.SYPSO[10].raid) }}       |
 | Massatomik  |    <img title="Prêtre" alt="Alt text" src="/classes/priest.png" width=50 height=50 >    | {{ MEMBERS.MASSATOMIK[10].loot }}  | {{ MEMBERS.MASSATOMIK[10].raid }}  |  {{ calculRatio(MEMBERS.MASSATOMIK[10].loot, MEMBERS.MASSATOMIK[10].raid) }}  |
 | Neozx       |    <img title="Prêtre" alt="Alt text" src="/classes/priest.png" width=50 height=50 >    | {{ MEMBERS.MASSATOMIK[10].loot }}  |    {{ MEMBERS.NEOZX[10].raid }}    |       {{ calculRatio(MEMBERS.NEOZX[10].loot, MEMBERS.NEOZX[10].raid) }}       |
