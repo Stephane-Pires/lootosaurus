@@ -4,6 +4,7 @@
 | ----------- | :-------------------------------------------------------------------------------------: | :------------: |
 | Aukâin      |    <img title="chaman" alt="Alt text" src="/classes/shaman.png" width=50 height=50 >    |       0        |
 | Archmaelle  |    <img title="chaman" alt="Alt text" src="/classes/shaman.png" width=50 height=50 >    |       0        |
+| Fwall       |    <img title="chaman" alt="Alt text" src="/classes/shaman.png" width=50 height=50 >    |       0        |
 | Bladesin    |    <img title="voleur" alt="Alt text" src="/classes/rogue.png" width=50 height=50 >     |       0        |
 | Erina       |    <img title="voleur" alt="Alt text" src="/classes/rogue.png" width=50 height=50 >     |       0        |
 | Nina        |    <img title="voleur" alt="Alt text" src="/classes/rogue.png" width=50 height=50 >     |       0        |
@@ -22,6 +23,7 @@
 | Gal         |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        |       0        |
 | Neronemesis |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        |       0        |
 | Tiino       |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        |       0        |
+| Xzhot       |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        |       0        |
 | Azrokh      |   <img title="Paladin" alt="Alt text" src="/classes/paladin.png" width=50 height=50 >   |       0        |
 | Satu        |   <img title="Paladin" alt="Alt text" src="/classes/paladin.png" width=50 height=50 >   |       0        |
 | Trynn       |   <img title="Paladin" alt="Alt text" src="/classes/paladin.png" width=50 height=50 >   |       0        |
@@ -35,6 +37,7 @@
 | ----------- | :-------------------------------------------------------------------------------------: | :--------------------------------: | :--------------------------------: | :---------------------------------------------------------------------------: |
 | Aukâin      |    <img title="chaman" alt="Alt text" src="/classes/shaman.png" width=50 height=50 >    |   {{ MEMBERS.AUKAIN[25].loot }}    |   {{ MEMBERS.AUKAIN[25].raid }}    |      {{ calculRatio(MEMBERS.AUKAIN[25].loot, MEMBERS.AUKAIN[25].raid) }}      |
 | Archmaelle  |    <img title="chaman" alt="Alt text" src="/classes/shaman.png" width=50 height=50 >    | {{ MEMBERS.ARCHMAELLE[25].loot }}  | {{ MEMBERS.ARCHMAELLE[25].raid }}  |  {{ calculRatio(MEMBERS.ARCHMAELLE[25].loot, MEMBERS.ARCHMAELLE[25].raid) }}  |
+| Fwall       |    <img title="chaman" alt="Alt text" src="/classes/shaman.png" width=50 height=50 >    |    {{ MEMBERS.FWALL[25].loot }}    |    {{ MEMBERS.FWALL[25].raid }}    |       {{ calculRatio(MEMBERS.FWALL[25].loot, MEMBERS.FWALL[25].raid) }}       |
 | Bladesin    |    <img title="voleur" alt="Alt text" src="/classes/rogue.png" width=50 height=50 >     |  {{ MEMBERS.BLADESIN[25].loot }}   |  {{ MEMBERS.BLADESIN[25].raid }}   |    {{ calculRatio(MEMBERS.BLADESIN[25].loot, MEMBERS.BLADESIN[25].raid) }}    |
 | Erina       |    <img title="voleur" alt="Alt text" src="/classes/rogue.png" width=50 height=50 >     |    {{ MEMBERS.ERINA[25].loot }}    |    {{ MEMBERS.ERINA[25].raid }}    |       {{ calculRatio(MEMBERS.ERINA[25].loot, MEMBERS.ERINA[25].raid) }}       |
 | Nina        |    <img title="voleur" alt="Alt text" src="/classes/rogue.png" width=50 height=50 >     |    {{ MEMBERS.NINA[25].loot }}     |    {{ MEMBERS.NINA[25].raid }}     |        {{ calculRatio(MEMBERS.NINA[25].loot, MEMBERS.NINA[25].raid) }}        |
@@ -53,6 +56,7 @@
 | Gal         |       <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >         |     {{ MEMBERS.GAL[25].loot }}     |     {{ MEMBERS.GAL[25].raid }}     |         {{ calculRatio(MEMBERS.GAL[25].loot, MEMBERS.GAL[25].raid) }}         |
 | Neronemesis |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        | {{ MEMBERS.NERONEMESIS[25].loot }} | {{ MEMBERS.NERONEMESIS[25].raid }} | {{ calculRatio(MEMBERS.NERONEMESIS[25].loot, MEMBERS.NERONEMESIS[25].raid) }} |
 | Tiino       |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        |    {{ MEMBERS.TIINO[25].loot }}    |    {{ MEMBERS.TIINO[25].raid }}    |       {{ calculRatio(MEMBERS.TIINO[25].loot, MEMBERS.TIINO[25].raid) }}       |
+| Xzhot       |        <img title="DK" alt="Alt text" src="/classes/dk.png" width=50 height=50 >        |    {{ MEMBERS.XZHOT[25].loot }}    |    {{ MEMBERS.XZHOT[25].raid }}    |       {{ calculRatio(MEMBERS.XZHOT[25].loot, MEMBERS.XZHOT[25].raid) }}       |
 | Azrokh      |   <img title="Paladin" alt="Alt text" src="/classes/paladin.png" width=50 height=50 >   |   {{ MEMBERS.AZROKH[25].loot }}    |   {{ MEMBERS.AZROKH[25].raid }}    |      {{ calculRatio(MEMBERS.AZROKH[25].loot, MEMBERS.AZROKH[25].raid) }}      |
 | Satu        |   <img title="Paladin" alt="Alt text" src="/classes/paladin.png" width=50 height=50 >   |    {{ MEMBERS.SATU[25].loot }}     |    {{ MEMBERS.SATU[25].raid }}     |        {{ calculRatio(MEMBERS.SATU[25].loot, MEMBERS.SATU[25].raid) }}        |
 | Trynn       |   <img title="Paladin" alt="Alt text" src="/classes/paladin.png" width=50 height=50 >   |    {{ MEMBERS.TRYNN[25].loot }}    |    {{ MEMBERS.TRYNN[25].raid }}    |       {{ calculRatio(MEMBERS.TRYNN[25].loot, MEMBERS.TRYNN[25].raid) }}       |
