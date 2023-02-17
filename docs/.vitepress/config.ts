@@ -24,6 +24,10 @@ const NAVIGATION_LOGIC = [
                         text: 'Raid Ulduar 10 : 5/02/23 ',
                         link: '/tableaux/r10-3',
                     },
+                    {
+                        text: 'Raid Ulduar 10 : 12/02/23 ',
+                        link: '/tableaux/r10-4',
+                    },
                 ],
             },
             {
@@ -56,6 +60,14 @@ const NAVIGATION_LOGIC = [
                     {
                         text: 'Raid Ulduar 25 : 09/02/23 ',
                         link: '/tableaux/r25-7',
+                    },
+                    {
+                        text: 'Raid Ulduar 25 : 13/02/23 ',
+                        link: '/tableaux/r25-8',
+                    },
+                    {
+                        text: 'Raid Ulduar 25 : 16/02/23 ',
+                        link: '/tableaux/r25-9',
                     },
                 ],
             },

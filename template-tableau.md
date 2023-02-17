@@ -12,6 +12,7 @@
 | Lio         |      <img title="mage" alt="Alt text" src="/classes/mage.png" width=50 height=50 >      |       0        |
 | Chatounette |    <img title="druide" alt="Alt text" src="/classes/druide.png" width=50 height=50 >    |       0        |
 | Newiz       |    <img title="druide" alt="Alt text" src="/classes/druide.png" width=50 height=50 >    |       0        |
+| Mythyos     |    <img title="druide" alt="Alt text" src="/classes/druide.png" width=50 height=50 >    |       0        |
 | Volhanio    |    <img title="druide" alt="Alt text" src="/classes/druide.png" width=50 height=50 >    |       0        |
 | Chatchoum   |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |       0        |
 | Sypsô       |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |       0        |
@@ -45,6 +46,7 @@
 | Lio         |      <img title="mage" alt="Alt text" src="/classes/mage.png" width=50 height=50 >      |     {{ MEMBERS.LIO[25].loot }}     |     {{ MEMBERS.LIO[25].raid }}     |         {{ calculRatio(MEMBERS.LIO[25].loot, MEMBERS.LIO[25].raid) }}         |
 | Chatounette |    <img title="druide" alt="Alt text" src="/classes/druide.png" width=50 height=50 >    | {{ MEMBERS.CHATOUNETTE[25].loot }} | {{ MEMBERS.CHATOUNETTE[25].raid }} | {{ calculRatio(MEMBERS.CHATOUNETTE[25].loot, MEMBERS.CHATOUNETTE[25].raid) }} |
 | Newiz       |    <img title="druide" alt="Alt text" src="/classes/druide.png" width=50 height=50 >    |    {{ MEMBERS.NEWIZ[25].loot }}    |    {{ MEMBERS.NEWIZ[25].raid }}    |       {{ calculRatio(MEMBERS.NEWIZ[25].loot, MEMBERS.NEWIZ[25].raid) }}       |
+| Mythios     |    <img title="druide" alt="Alt text" src="/classes/druide.png" width=50 height=50 >    |   {{ MEMBERS.MYTHIOS[25].loot }}   |   {{ MEMBERS.MYTHIOS[25].raid }}   |     {{ calculRatio(MEMBERS.MYTHIOS[25].loot, MEMBERS.MYTHIOS[25].raid) }}     |
 | Volhanio    |    <img title="druide" alt="Alt text" src="/classes/druide.png" width=50 height=50 >    |  {{ MEMBERS.VOLHANIO[25].loot }}   |  {{ MEMBERS.VOLHANIO[25].raid }}   |    {{ calculRatio(MEMBERS.VOLHANIO[25].loot, MEMBERS.VOLHANIO[25].raid) }}    |
 | Chatchoum   |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |  {{ MEMBERS.CHATCHOUM[25].loot }}  |  {{ MEMBERS.CHATCHOUM[25].raid }}  |   {{ calculRatio(MEMBERS.CHATCHOUM[25].loot, MEMBERS.CHATCHOUM[25].raid) }}   |
 | Sypsô       |    <img title="hunter" alt="Alt text" src="/classes/hunter.png" width=50 height=50 >    |    {{ MEMBERS.SYPSO[25].loot }}    |    {{ MEMBERS.SYPSO[25].raid }}    |       {{ calculRatio(MEMBERS.SYPSO[25].loot, MEMBERS.SYPSO[25].raid) }}       |
