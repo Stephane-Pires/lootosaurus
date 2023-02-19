@@ -275,7 +275,7 @@ const MEMBERS = {
         },
         25:{
         raid: 9,
-        loot: 6,
+        loot: 5,
         },
         
     },
